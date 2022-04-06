@@ -1,2 +1,2 @@
-Анализ популярных репозиториев (python, java) на GitHub статей на Hacker News (API).
+Анализ популярных репозиториев (python, java) на GitHub, статей на Hacker News (API).
 Визуализация в plotly(HTML)
